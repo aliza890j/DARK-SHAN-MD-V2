@@ -21,32 +21,30 @@
 
 ## 🔥 Deploy Now
 
-<div style="display: flex; flex-direction: column; gap: 8px;">
-  <a href="https://railway.app/new/template?template=https://github.com/yourusername/DARK-SHAN-MD-V2">
-    <img src="https://img.shields.io/badge/Deploy-Railway-0e75b6?style=for-the-badge&logo=railway&logoColor=white" alt="Deploy on Railway" height="30"/>
-  </a>
-  <a href="https://heroku.com/deploy?template=https://github.com/yourusername/DARK-SHAN-MD-V2">
-    <img src="https://img.shields.io/badge/Deploy-Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white" alt="Deploy on Heroku" height="30"/>
-  </a>
-  <a href="https://app.koyeb.com/deploy?type=git&repository=https://github.com/yourusername/DARK-SHAN-MD-V2">
-    <img src="https://img.shields.io/badge/Deploy-Koyeb-00b8d4?style=for-the-badge&logo=koyeb&logoColor=white" alt="Deploy on Koyeb" height="30"/>
-  </a>
-  <a href="https://render.com/deploy?repo=https://github.com/yourusername/DARK-SHAN-MD-V2">
-    <img src="https://img.shields.io/badge/Deploy-Render-46e3b7?style=for-the-badge&logo=render&logoColor=white" alt="Deploy to Render" height="30"/>
-  </a>
-  <a href="https://replit.com/github/yourusername/DARK-SHAN-MD-V2">
-    <img src="https://img.shields.io/badge/Deploy-Replit-f26207?style=for-the-badge&logo=replit&logoColor=white" alt="Run on Replit" height="30"/>
-  </a>
-  <a href="https://cloud.google.com/shell">
-    <img src="https://img.shields.io/badge/Deploy-Google_Shell-4285f4?style=for-the-badge&logo=google-cloud&logoColor=white" alt="Google Shell" height="30"/>
-  </a>
-  <a href="https://github.com/yourusername/DARK-SHAN-MD-V2#vps-deployment">
-    <img src="https://img.shields.io/badge/Deploy-VPS-181717?style=for-the-badge&logo=linux&logoColor=white" alt="VPS" height="30"/>
-  </a>
-  <a href="https://github.com/yourusername/DARK-SHAN-MD-V2">
-    <img src="https://img.shields.io/badge/GitHub-Repository-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" height="30"/>
-  </a>
-</div>
+<a href="https://railway.app/new/template?template=https://github.com/yourusername/DARK-SHAN-MD-V2">
+  <img src="https://img.shields.io/badge/Deploy-Railway-0e75b6?style=for-the-badge&logo=railway&logoColor=white" alt="Deploy on Railway" height="30"/>
+</a><br/>
+<a href="https://heroku.com/deploy?template=https://github.com/yourusername/DARK-SHAN-MD-V2">
+  <img src="https://img.shields.io/badge/Deploy-Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white" alt="Deploy on Heroku" height="30"/>
+</a><br/>
+<a href="https://app.koyeb.com/deploy?type=git&repository=https://github.com/yourusername/DARK-SHAN-MD-V2">
+  <img src="https://img.shields.io/badge/Deploy-Koyeb-00b8d4?style=for-the-badge&logo=koyeb&logoColor=white" alt="Deploy on Koyeb" height="30"/>
+</a><br/>
+<a href="https://render.com/deploy?repo=https://github.com/yourusername/DARK-SHAN-MD-V2">
+  <img src="https://img.shields.io/badge/Deploy-Render-46e3b7?style=for-the-badge&logo=render&logoColor=white" alt="Deploy to Render" height="30"/>
+</a><br/>
+<a href="https://replit.com/github/yourusername/DARK-SHAN-MD-V2">
+  <img src="https://img.shields.io/badge/Deploy-Replit-f26207?style=for-the-badge&logo=replit&logoColor=white" alt="Run on Replit" height="30"/>
+</a><br/>
+<a href="https://cloud.google.com/shell">
+  <img src="https://img.shields.io/badge/Deploy-Google_Shell-4285f4?style=for-the-badge&logo=google-cloud&logoColor=white" alt="Google Shell" height="30"/>
+</a><br/>
+<a href="https://github.com/yourusername/DARK-SHAN-MD-V2#vps-deployment">
+  <img src="https://img.shields.io/badge/Deploy-VPS-181717?style=for-the-badge&logo=linux&logoColor=white" alt="VPS" height="30"/>
+</a><br/>
+<a href="https://github.com/yourusername/DARK-SHAN-MD-V2">
+  <img src="https://img.shields.io/badge/GitHub-Repository-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" height="30"/>
+</a>
 
 <p align="center">
   <a href="https://github.com/yourusername/DARK-SHAN-MD-V2/fork">

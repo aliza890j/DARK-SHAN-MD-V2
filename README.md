@@ -62,21 +62,19 @@
 
 ## ✨ Features
 
-- 💬 Advanced messaging capabilities
+- 💬 Downloader Menu
 - 🎨 Sticker creation
 - 🎵 Music player
-- 🔍 Web scraping
-- 🤖 AI-powered responses
-- 📂 File converter
-- 🔐 Admin tools
+- 🔍 Search Menu
+- 🤖 Ai Menu
+- 📂 Converter Meni
+- 🔐 Admin Menu
 - And much more...
 
 ## 📌 Requirements
 
-- Node.js v16 or later
 - WhatsApp account
-- FFmpeg (for media processing)
-- Libwebp (for stickers)
+- Deploy Flatfrom
 
 ## 🚀 Quick Start
 

@@ -1,4 +1,4 @@
-# DARK SHAN MD V2 🤖
+# DARK SHAN MD V2 🪽
 
 <p align="center">
   <img src="https://files.catbox.moe/6hvl5u.png" alt="DARK SHAN MD V2" width="500"/>

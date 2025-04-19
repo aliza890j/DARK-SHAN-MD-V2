@@ -19,6 +19,7 @@ AUTO_REACT:process.env.AUTO_REACT === undefined ? 'false' : process.env.AUTO_REA
 ONLINE_STATUS: process.env.ONLINE_STATUS  === undefined ? 'false' : process.env.ONLINE_STATUS, 
 FOOTER: process.env.FOOTER=== undefined ? '‌ᴋᴜꜱʜᴀɴ': process.env.FOOTER,
 BUTTON_MSG: process.env.BUTTON_MSG || 'nonbtn'  ,
+FLATFROM: process.env.FLATFROM || 'netlify'  ,
 AUTO_AI_MODE: process.env.AUTO_AI_MODE || 'on'  ,
 PREFIX: process.env.PREFIX || '#'  ,
 TIME_ZONE: process.env.TIME_ZONE || 'asia/colombo'  ,

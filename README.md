@@ -19,6 +19,18 @@
 
 <h3 align="center">✨ Advanced WhatsApp Bot with Rich Features ✨</h3>
 
+## 🔥 𝗙𝗼𝗿𝗸 𝗥𝗲𝗽𝗼
+
+<a href="https://github.com/yourusername/DARK-SHAN-MD-V2/fork">
+  <img src="https://img.shields.io/badge/Fork-Repository-181717?style=for-the-badge&logo=github&logoColor=white" alt="Fork Repo" height="30"/>
+</a>
+
+## 🔥 𝗤𝗿 / 𝗣𝗮𝗶𝗿 𝗟𝗼𝗴𝗶𝗻
+
+<a href="https://github.com/yourusername/DARK-SHAN-MD-V2#qr-pair-login">
+  <img src="https://img.shields.io/badge/QR_/_Pair-Login-4285f4?style=for-the-badge&logo=whatsapp&logoColor=white" alt="QR / Pair Login" height="30"/>
+</a>
+
 ## 🔥 Deploy Now
 
 <a href="https://railway.app/new/template?template=https://github.com/yourusername/DARK-SHAN-MD-V2">
@@ -39,15 +51,15 @@
 <a href="https://cloud.google.com/shell">
   <img src="https://img.shields.io/badge/Deploy-Google_Shell-4285f4?style=for-the-badge&logo=google-cloud&logoColor=white" alt="Google Shell" height="30"/>
 </a><br/>
-<a href="https://github.com/yourusername/DARK-SHAN-MD-V2#vps-deployment">
+<a href="https://github.com/DARK-SHAN-YT/DARK-SHAN-MD-V2#vps-deployment">
   <img src="https://img.shields.io/badge/Deploy-VPS-181717?style=for-the-badge&logo=linux&logoColor=white" alt="VPS" height="30"/>
 </a><br/>
-<a href="https://github.com/yourusername/DARK-SHAN-MD-V2">
+<a href="https://github.com/DARK-SHAN-YT/DARK-SHAN-MD-V2">
   <img src="https://img.shields.io/badge/GitHub-Repository-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" height="30"/>
 </a>
 
 <p align="center">
-  <a href="https://github.com/yourusername/DARK-SHAN-MD-V2/fork">
+  <a href="https://github.com/DARK-SHAN-YT/DARK-SHAN-MD-V2/fork">
     <img src="https://img.shields.io/github/forks/yourusername/DARK-SHAN-MD-V2?label=Forks&style=flat-square&color=0e75b6" alt="Fork Count"/>
   </a>
 </p>
@@ -55,7 +67,7 @@
 ## 📚 Tutorial
 
 <p align="center">
-  <a href="https://youtube.com/tutorial-link">
+  <a href="https://youtube.com/">
     <img src="https://img.shields.io/badge/Video_Tutorial-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="Tutorial" height="40"/>
   </a>
 </p>
@@ -67,14 +79,14 @@
 - 🎵 Music player
 - 🔍 Search Menu
 - 🤖 Ai Menu
-- 📂 Converter Meni
+- 📂 Converter Menu
 - 🔐 Admin Menu
 - And much more...
 
 ## 📌 Requirements
 
 - WhatsApp account
-- Deploy Flatfrom
+- Deploy Platform
 
 ## 🚀 Quick Start
 

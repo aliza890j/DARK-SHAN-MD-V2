@@ -33,6 +33,12 @@
 
 ## 🔥 Deploy Now
 
+<a href="https://app.netlify.com/start/deploy?repository=https://github.com/yourusername/DARK-SHAN-MD-V2">
+  <img src="https://img.shields.io/badge/Deploy-Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" alt="Deploy on Netlify" height="30"/>
+</a><br/>
+<a href="https://vercel.com/new/clone?repository-url=https://github.com/yourusername/DARK-SHAN-MD-V2">
+  <img src="https://img.shields.io/badge/Deploy-Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Deploy on Vercel" height="30"/>
+</a><br/>
 <a href="https://railway.app/new/template?template=https://github.com/yourusername/DARK-SHAN-MD-V2">
   <img src="https://img.shields.io/badge/Deploy-Railway-0e75b6?style=for-the-badge&logo=railway&logoColor=white" alt="Deploy on Railway" height="30"/>
 </a><br/>

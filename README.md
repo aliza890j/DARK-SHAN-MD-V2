@@ -19,15 +19,15 @@
 
 <h3 align="center">✨ Advanced WhatsApp Bot with Rich Features ✨</h3>
 
-## 🔥 𝗙𝗼𝗿𝗸 𝗥𝗲𝗽𝗼
+## 🍁 𝗙𝗼𝗿𝗸 𝗥𝗲𝗽𝗼
 
-<a href="https://github.com/yourusername/DARK-SHAN-MD-V2/fork">
+<a href="https://github.com/DARK-SHAN-YT/DARK-SHAN-MD-V2/fork">
   <img src="https://img.shields.io/badge/Fork-Repository-181717?style=for-the-badge&logo=github&logoColor=white" alt="Fork Repo" height="30"/>
 </a>
 
-## 🔥 𝗤𝗿 / 𝗣𝗮𝗶𝗿 𝗟𝗼𝗴𝗶𝗻
+## 🍂 𝗤𝗿 / 𝗣𝗮𝗶𝗿 𝗟𝗼𝗴𝗶𝗻
 
-<a href="https://github.com/yourusername/DARK-SHAN-MD-V2#qr-pair-login">
+<a href="https://web-dark-shan-yt.koyeb.app/">
   <img src="https://img.shields.io/badge/QR_/_Pair-Login-4285f4?style=for-the-badge&logo=whatsapp&logoColor=white" alt="QR / Pair Login" height="30"/>
 </a>
 

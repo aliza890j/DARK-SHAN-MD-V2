@@ -5,10 +5,10 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/yourusername/DARK-SHAN-MD-V2/fork">
+  <a href="https://github.com/DARK-SHAN-YT/DARK-SHAN-MD-V2/fork">
     <img src="https://img.shields.io/github/forks/yourusername/DARK-SHAN-MD-V2?label=Fork&style=social" alt="Fork"/>
   </a>
-  <a href="https://github.com/yourusername/DARK-SHAN-MD-V2/stargazers">
+  <a href="https://github.com/DARK-SHAN-YT/DARK-SHAN-MD-V2/stargazers">
     <img src="https://img.shields.io/github/stars/yourusername/DARK-SHAN-MD-V2?style=social" alt="Stars"/>
   </a>
 </p>

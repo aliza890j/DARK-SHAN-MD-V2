@@ -17,6 +17,7 @@
         "axios": "^1.6.8",
         "acrcloud": "^1.4.0",
         "api-dylux": "latest",
+        "adm-zip": "latest",
         "cheerio": "^1.0.0-rc.12",
         "chalk": "^4.1.2",
         "child_process": "^1.0.2",

@@ -5,7 +5,7 @@ function convertToBool(text, fault = 'true') {
     return text === fault ? true : false;
 }
 module.exports = {
-SESSION_ID: process.env.SESSION_ID === undefined ? '' : process.env.SESSION_ID,
+SESSION_ID: process.env.SESSION_ID === undefined ? 'DARK-SHAN-MD=NjsnADKC#wvTAmNNh5Unyd-VbL2riI_wD6oL2QIUvrh2sjns4Jzo' : process.env.SESSION_ID,
 GITHUB_USERNAME: process.env.GITHUB_USERNAME === undefined ? '' : process.env.GITHUB_USERNAME,
 GITHUB_TOKEN: process.env.GITHUB_TOKEN === undefined ? '' : process.env.GITHUB_TOKEN,
 ONLY_GROUP: process.env.ONLY_GROUP === undefined ? 'false' : process.env.ONLY_GROUP,
